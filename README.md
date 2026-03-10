@@ -1,86 +1,162 @@
 <div align="center">
-  <!-- Header with background image -->
-  <div style="background: linear-gradient(rgba(93, 63, 211, 0.8), rgba(37, 117, 252, 0.8)), 
-              url('https://drive.google.com/file/d/1Zb1tQQwnH-Zc-lNpxWSdZUs_9xWZYWSx/view?usp=sharing') center/cover;
-              border-radius: 15px;
-              padding: 3rem;
-              margin-bottom: 2rem;
-              position: relative;
-              color: white;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Front-End+Developer;Social+Impact+Technologist;Education+%26+Youth+Empowerment+Advocate" alt="Typing SVG" />
-  </div>
+
+# 👋 Hi, I'm Reath Chuol Rut
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Data+Science+%26+Analytics+Student+at+USIU-AFRICA;Social+Entrepreneur+%26+Youth+Leader;Aspiring+Data+Scientist;Leveraging+Data+for+Socio-economic+Transformation" />
+
+📊 Aspiring Data Scientist passionate about using **data, analytics, and artificial intelligence** to create innovative solutions for **education, entrepreneurship, and youth empowerment across Africa**.
+
+🌍 **Mission:** To leverage data and technology to empower communities and drive socio-economic impact across Africa and beyond.
+
 </div>
 
- <span style="font-weight: bold; color: #5D3FD3;">👋 Hey! I'm Reath Chuol Rut</span>
+---
 
-<div style="background-color: #f8f9fa; 
-            border-left: 5px solid #5D3FD3;
-            padding: 1rem;
-            border-radius: 0 8px 8px 0;
-            margin: 1rem 0;">
+# 🚀 About Me
 
- <span style="font-weight: bold;">About Me</span>
- 
-🔭 Currently: Emerging Data Scientist & Front-End Web Developer  
-🌱 Learning: Data visualization, Statistical Computing, AI, ML, DL, React.js, and human-centered design  
-💡 Passionate about: Leveraging tech for education, entrepreneurship, and youth empowerment  
-🌍 Mission: Harness the power of technology to design cutting-edge solutions in education, entrepreneurship, and youth empowerment in African continent and beyond
-</div>
+🔭 Currently building strong foundations in **Data Science and Analytics**
 
- <span style="color: #5D3FD3; border-bottom: 2px solid #5D3FD3; padding-bottom: 0.5rem; display: inline-block;">🛠 Technical Skills</span>
+🌱 Learning **Data Visualization, Statistical Computing, Machine Learning, Deep Learning, and Artificial Intelligence**
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0;">
-  <!-- Data Science -->
-  <div style="flex: 1; min-width: 200px; background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0; color: #5D3FD3;">📊 Data Science</h4>
-    <p>Python • Pandas • NumPy • Scikit-learn • R • SQL • Data Visualization • AI/ML</p>
-  </div>
+💡 Passionate about **data-driven solutions for education, entrepreneurship, and social innovation**
 
-  <!-- Front-End -->
-  <div style="flex: 1; min-width: 200px; background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0; color: #5D3FD3;">💻 Front-End</h4>
-    <p>HTML • CSS • JavaScript • React • Git • GitHub</p>
-  </div>
-  
-  <!-- Tools -->
-  <div style="flex: 1; min-width: 200px; background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0; color: #5D3FD3;">🔧 Tools</h4>
-    <p>VS Code • Jupyter • RStudio • PyCharm • MySQL • Figma</p>
-  </div>
-</div>
+📊 Interested in transforming **raw data into meaningful insights that drive better decisions**
 
- <span style="color: #5D3FD3; border-bottom: 2px solid #5D3FD3; padding-bottom: 0.5rem; display: inline-block;">💬 Let's Collaborate On</span>
+---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin: 1.5rem 0;">
-  <span style="background-color: #f3e5f5; color: #8E24AA; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Data Science Projects • </span>
-  <span style="background-color: #e8eaf6; color: #3949AB; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Software Engineering Projects • </span>
-  <span style="background-color: #e0f7fa; color: #00ACC1; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Education • </span>
-  <span style="background-color: #f1f8e9; color: #689F38; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Social Entrepreneurship • </span>
-  <span style="background-color: #fff3e0; color: #FB8C00; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Youth Leadership</span>
-</div> <br><br>
+# ⚡ Tech Stack
 
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white)
 
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-<div style="display: flex; 
-            flex-wrap: wrap; 
-            gap: 1rem;
-            justify-content: center;
-            margin: 2rem 0;">
-<div align="center" style="margin: 2rem 0;">
-  <a href="https://www.linkedin.com/in/reath-chuol-rut" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0.5rem; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://github.com/reathchuol" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-    <a href="https://x.com/ChuolRut" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-  <a href="mailto:rutreathchuol@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0.5rem; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
+### Data Visualization & Analytics Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=reathchuol&show_icons=true&theme=tokyonight" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reathchuol&layout=compact&theme=tokyonight" height="165">
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=reathchuol&theme=tokyonight">
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Data Analysis
+
+**ICT Skills Impact Analysis**  
+Analyzed survival rate using titanic dataset.
+
+Tools: Python, Pandas, Matplotlib
+
+---
+
+### 📈 Data Visualization
+
+**Survey Insights Visualization**  
+Created visualizations to communicate patterns and insights from survey datasets.
+
+Tools: Python, Data Visualization
+
+---
+
+### 🤖 Machine Learning
+
+**Student Performance Prediction**  
+Developed a machine learning model to predict house pricing using housing dataset.
+
+Tools: Python, Scikit-learn, SciPy
+
+---
+
+# 📊 Areas of Interest
+
+- Data Science  
+- Data Analytics  
+- Artificial Intelligence  
+- Machine Learning  
+- Data Visualization  
+- Education Innovation  
+- Social Entrepreneurship  
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Data Visualization  
+- Statistical Computing  
+- Machine Learning  
+- Deep Learning  
+- Artificial Intelligence  
+
+---
+
+# 🤝 Open to Collaborate On
+
+- Data Science Projects  
+- Data Analytics Projects  
+- Data Visualization Projects  
+- Education Technology Solutions  
+- Social Impact Technology  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/reath-chuol-rut">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/15eLf9tewTR/">
+<img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@mcxcy?_r=1&_t=ZS-94ZMj8WQW8q">
+<img src="https://img.shields.io/badge/Tiktok-181717?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/reathchuolrut/">
+<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reathchuol&label=Profile%20views&color=5D3FD3&style=for-the-badge" alt="reathchuol" /> 
+<img src="https://komarev.com/ghpvc/?username=reathchuol&label=Profile%20Views&color=5D3FD3&style=for-the-badge" alt="profile views"/>
 </div>
